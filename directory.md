@@ -31,6 +31,7 @@ Bunge | Marta | McGill University  | Emerita Professor (in memoriam) | https://w
 Cabrini Grácio | Maria Cláudia | Universidade Estadual Paulista Júlio de Mesquita Filho (Brazil) | Associate Professor | http://lattes.cnpq.br/5170688300970006 | non-classical logics, logic and decision theory, statistics
 Campbell-Moore | Catrin | University of Bristol (UK) | Researcher (Lecturer) | www.ccampbell-moore.co.uk | philosophical logic, formal epistemology, self-referential probabilities, epistemic utility theory
 Canavotto | Ilaria | ILLC -University of Amsterdam (Netherlands) | Postdoctoral researcher | https://sites.google.com/view/ilariacanavotto/ | philosophical logic, deontic logic, logics of actions
+Cantù | Paola | CNRS and Aix-Marseille University | CNRS Researcher | https://cv.hal.science/paola-cantu | History and Philosophy of Logic and Mathematics
 Cholodovskis | Ana | MCMP - Munich (Germany) | PhD Fellow | https://www.mcmp.philosophie.uni-muenchen.de/people/doct_fellows/cholodovskis_ana/index.html | Logic, Formal Epistemology, Logic of Demonstratives, Belief Revision, Non-Classical Logics
 Christoff | Zoé | University of Groningen (NL)  | Assistant professor & Rosalind Franklin Fellow | www.zoechristoff.com | Logics for social networks, Dynamic Epistemic Logic,  Judgment aggregation theory, social epistemology.
 Ciabattoni | Agata | Institute of Computer Languages (TU Wien,  Austria) | Full Professor | http://www.logic.at/staff/agata/ | Non-classical logic, Proof Theory
